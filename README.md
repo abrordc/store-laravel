@@ -34,7 +34,7 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 copy project
 
 ```sh
-git clone
+git clone https://github.com/abrordc/store-laravel.git
 ```
 
 create key project
