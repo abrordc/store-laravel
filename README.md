@@ -37,6 +37,12 @@ copy project
 git clone https://github.com/abrordc/store-laravel.git
 ```
 
+install all package
+
+```sh
+composer install
+```
+
 create key project
 
 ```sh
