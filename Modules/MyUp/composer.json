@@ -1,0 +1,30 @@
+{
+    "name": "nwidart/myup",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\MyUp\\": "app/",
+            "Modules\\MyUp\\Database\\Factories\\": "database/factories/",
+            "Modules\\MyUp\\Database\\Seeders\\": "database/seeders/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Modules\\MyUp\\Tests\\": "tests/"
+        }
+    }
+}

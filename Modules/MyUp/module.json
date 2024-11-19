@@ -1,0 +1,33 @@
+{
+    "name": "MyUp",
+    "alias": "myup",
+    "description": {
+        "ar": "test plugin",
+        "en": "test plugin",
+        "gr": "test plugin",
+        "de": "test plugin",
+        "nl": "test plugin",
+        "fr": "test plugin",
+        "sp": "test plugin"
+    },
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\MyUp\\Providers\\MyUpServiceProvider"
+    ],
+    "files": [],
+    "title": {
+        "ar": "my up",
+        "en": "my up",
+        "gr": "my up",
+        "de": "my up",
+        "nl": "my up",
+        "fr": "my up",
+        "sp": "my up"
+    },
+    "color": "#78c266",
+    "icon": "heroicon-c-academic-cap",
+    "placeholder": "placeholder.webp",
+    "type": "plugin",
+    "version": "v1.0"
+}

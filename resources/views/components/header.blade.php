@@ -2,7 +2,8 @@
     <nav id="header-nav" class="navbar navbar-expand-lg">
       <div class="container-lg">
         <a class="navbar-brand" href="index.html">
-          <img src="images/main-logo.png" class="logo" alt="logo">
+         <h1>Demtimcod</h1>
+         <p>E-Commerce</p>
         </a>
         <button class="navbar-toggler d-flex d-lg-none order-3 border-0 p-1 ms-2" type="button" data-bs-toggle="offcanvas"
           data-bs-target="#bdNavbar" aria-controls="bdNavbar" aria-expanded="false" aria-label="Toggle navigation">
